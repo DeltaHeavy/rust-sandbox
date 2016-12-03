@@ -1,6 +1,0 @@
-[package]
-name = "bruteforcer"
-version = "0.1.0"
-authors = ["Max Zinkus <mzinkus@calpoly.edu>"]
-
-[dependencies]
